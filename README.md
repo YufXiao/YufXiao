@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yufeng
-- 👀 , interested in Computer Graphics, GameDev and Pixel Art
-- 🌱 , currently learning Software System at the University of Zurich.
+- ✨, interested in Computer Graphics, GameDev and Voxel Art
+- ✨, learned Software System at the University of Zurich
+- ✨, currently working on my first independent game.
 - 📫 How to reach me: chau253841@gmail.com
 
 <!---
