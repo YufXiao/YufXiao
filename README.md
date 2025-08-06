@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yufeng
-- ✨, interested in Computer Graphics, GameDev and Voxel Art
+- ✨, interested in Computer Graphics, GameDev, Technical Art and Artificial Intelligence
 - ✨, learned Software System at the University of Zurich
-- ✨, currently working on my first independent game.
-- 📫 How to reach me: chau253841@gmail.com
+- ✨, currently working as a full stack engineer at Lingee(Wuxi)
+- 📫 How to reach me: yufeng.xiao@lingee.co
 
 <!---
 YufXiao/YufXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
